@@ -1,0 +1,6 @@
+password_generator/
+│
+├── password_generator.py
+├── README.md
+├── .gitignore
+└── password_history.json
